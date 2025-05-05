@@ -1,0 +1,69 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "7f7606ae0fa00b114b9fa393e83f7eff496bc9b05e47a70252548ff2baf27a9c",
+    "telemetry.devDeviceId": "be79c5af-35cf-4fe2-b777-907b69926ba5",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/ivar/.config/waybar"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ivar/.config/hypr": "__default__profile__",
+            "file:///home/ivar/.config/Code%20-%20OSS": "__default__profile__",
+            "file:///home/ivar/.config/waybar": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e2e",
+    "windowSplash": {
+        "zoomLevel": 2,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cdd6f4",
+            "background": "#1e1e2e",
+            "editorBackground": "#1e1e2e",
+            "titleBarBackground": "#1e1e2e",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#1e1e2e",
+            "activityBarBorder": "rgba(0, 0, 0, 0)",
+            "sideBarBackground": "#1e1e2e",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#1e1e2e",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#1e1e2e",
+            "windowBorder": "rgba(0, 0, 0, 0)"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 235,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/ivar/.config/waybar",
+            "backupPath": "/home/ivar/.config/Code - OSS/Backups/980fd258c6390a290309140eab13444b",
+            "uiState": {
+                "mode": 1,
+                "x": 2048,
+                "y": 548,
+                "width": 936,
+                "height": 516,
+                "zoomLevel": 0
+            }
+        },
+        "openedWindows": []
+    }
+}

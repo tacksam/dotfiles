@@ -1,0 +1,7 @@
+2025-05-05 18:41:43.746 [info] Started local extension host with pid 77413.
+2025-05-05 18:41:46.333 [info] [perf] Render performance baseline is 13ms
+2025-05-05 18:41:48.152 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/ivar/.config/hypr/hyprpaper.conf 
+2025-05-05 18:41:48.153 [warning] [backup tracker] suspended, ignoring dirty change event untitled:/home/ivar/.config/hypr/hypr 
+2025-05-05 18:41:48.154 [warning] [backup tracker] suspended, ignoring dirty change event untitled:/home/ivar/.config/hypr/hyprp 
+2025-05-05 18:41:48.158 [warning] [backup tracker] suspended, ignoring unregister event untitled:/home/ivar/.config/hypr/hypr 
+2025-05-05 18:41:48.159 [warning] [backup tracker] suspended, ignoring unregister event untitled:/home/ivar/.config/hypr/hyprp 

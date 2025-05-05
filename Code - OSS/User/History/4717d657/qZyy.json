@@ -1,0 +1,13 @@
+{
+    "window.titleBarStyle": "custom",             // removes the default OS titlebar
+    "workbench.colorTheme": "One Dark Pro",        // or your favorite theme
+    "editor.background": "#1e1e1e00",              // fully transparent editor background
+    "activityBar.background": "#252526cc",         // semi-transparent side bar
+    "sideBar.background": "#252526cc",
+    "statusBar.background": "#007acccc",
+    "vscode_custom_css.imports": [
+      "file:///home/ivar/.config/vscode/custom.css"
+    ],
+    "vscode_custom_css.policy": true
+  }
+  

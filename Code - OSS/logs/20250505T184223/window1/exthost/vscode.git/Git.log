@@ -1,0 +1,17 @@
+2025-05-05 18:42:25.720 [info] [main] Log level: Info
+2025-05-05 18:42:25.720 [info] [main] Validating found git in: "git"
+2025-05-05 18:42:25.720 [info] [main] Using git "2.49.0" from "git"
+2025-05-05 18:42:25.720 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-05 18:42:25.720 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-05 18:42:25.720 [info] > git rev-parse --path-format=relative --show-toplevel [96ms]
+2025-05-05 18:42:25.720 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-05-05 18:42:25.720 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-05 18:42:25.720 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 18:42:25.724 [info] > git rev-parse --path-format=relative --show-toplevel [1ms]
+2025-05-05 18:42:25.727 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2025-05-05 18:42:25.727 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-05 18:42:25.727 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-05 18:42:26.887 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 18:42:26.890 [info] > git rev-parse --path-format=relative --show-toplevel [0ms]
+2025-05-05 18:42:26.894 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-05-05 18:42:26.894 [info] fatal: not a git repository (or any of the parent directories): .git

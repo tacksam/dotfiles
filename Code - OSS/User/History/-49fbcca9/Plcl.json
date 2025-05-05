@@ -1,0 +1,4 @@
+{
+    "git.openRepositoryInParentFolders": "never",
+    "security.workspace.trust.untrustedFiles": "open"
+}
